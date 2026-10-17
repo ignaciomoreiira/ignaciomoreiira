@@ -18,7 +18,6 @@
 **Lenguajes con los que estoy trabajando**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Herramientas y tecnologías que estoy aprendiendo y utilizando**
@@ -33,9 +32,6 @@
 
 **[Lumina — Proyecto colaborativo](https://github.com/MiguelHerrera-13/Proyecto-frontend-Lumina)**  
 Participación en un proyecto académico de desarrollo de software, trabajando con Java, funcionalidades de la aplicación e integración con servicios.
-
-**[Programación I — Ejercicios en Python](https://github.com/ignaciomoreiira/Programacion-I-)**  
-Repositorio con prácticas de programación y fundamentos del lenguaje Python.
 
 ### 🌱 En qué estoy enfocado
 
