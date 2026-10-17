@@ -1,70 +1,90 @@
 <div align="center">
 
-# Ignacio Moreira
+# 👋 ¡Hola! Soy Ignacio Moreira
 
-**Desarrollador Full Stack en formación**
+### 💻 Full Stack Developer en formación
 
-Frontend · Backend · APIs REST
+**Estudiante de Desarrollo de Software | Mendoza, Argentina 🇦🇷**
 
-📍 Mendoza, Argentina
+Me interesa crear aplicaciones completas: desde la experiencia del usuario hasta las APIs y la persistencia de datos.
+
+[![Mi proyecto: Lumina](https://img.shields.io/badge/Proyecto_destacado-Lumina-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiguelHerrera-13/Proyecto-frontend-Lumina)
 
 </div>
 
 ---
 
-### Sobre mí
+## 🚀 Sobre mí
 
-Estoy cursando la **Tecnicatura en Desarrollo de Software** y construyendo experiencia práctica a través de proyectos académicos y colaborativos.
+- 🎓 Curso la **Tecnicatura en Desarrollo de Software**.
+- 🔧 Estoy desarrollando mis habilidades en **frontend, backend y bases de datos**.
+- 🤝 Participo en proyectos colaborativos, como **Lumina**, donde trabajé en interfaces Android e integración con APIs REST.
+- 🎯 Mi objetivo es comenzar mi carrera profesional como **desarrollador Full Stack** y seguir aprendiendo con proyectos reales.
 
-Mi objetivo es desarrollarme como **Full Stack Developer**, aprendiendo a construir soluciones completas: desde las interfaces que utiliza el usuario hasta la lógica del servidor, las APIs y las bases de datos. Actualmente gano experiencia práctica con **Java, Kotlin, APIs REST y desarrollo de aplicaciones**.
+---
 
-### Tecnologías con las que estoy trabajando
+## 🛠️ Tecnologías y herramientas
 
-**Lenguajes**
+### ⚙️ Backend y APIs
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge" alt="APIs REST" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-2F6FEB?style=flat-square)
+### 📱 Interfaces y aplicaciones
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Retrofit-009688?style=for-the-badge" alt="Retrofit" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
+</p>
 
-**Frameworks, bases de datos e integración**
+### 🗄️ Bases de datos
+<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+</p>
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+### 🧰 Control de versiones y entorno
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
+</p>
 
-**Herramientas**
+> Estas son tecnologías con las que estoy trabajando o aprendiendo; sigo fortaleciendo mis fundamentos y experiencia práctica.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+---
 
-### Proyecto destacado
+## 📌 Proyecto destacado
 
-#### [Lumina — aplicación Android (proyecto en equipo)](https://github.com/MiguelHerrera-13/Proyecto-frontend-Lumina)
+### [Lumina — Aplicación Android desarrollada en equipo](https://github.com/MiguelHerrera-13/Proyecto-frontend-Lumina)
 
-Aplicación académica desarrollada con **Kotlin y Jetpack Compose**, que integra funcionalidades de gestión de pacientes con una **API REST** a través de Retrofit.
+Proyecto académico con **Kotlin, Jetpack Compose y Retrofit**, conectado a servicios backend mediante una API REST.
 
-**Algunas de mis contribuciones:**
-- Validaciones de formularios de acceso y gestión de pacientes.
-- Construcción de interfaces y manejo de estados con Jetpack Compose.
-- Integración de consultas y altas de pacientes con el backend mediante Retrofit.
-- Organización del acceso a datos mediante DTOs, repositorios y ViewModels, con manejo de errores y estados de carga.
+**Mis contribuciones:**
+- Implementación de validaciones en formularios de login y gestión de pacientes.
+- Desarrollo de interfaces y manejo de estados con Jetpack Compose.
+- Integración de altas y consultas de pacientes con la API mediante Retrofit.
+- Separación de responsabilidades utilizando DTOs, repositorios y ViewModels.
 
-**Cambios integrados al proyecto:** [Login y pacientes (PR #7)](https://github.com/MiguelHerrera-13/Proyecto-frontend-Lumina/pull/7) · [Integración con API REST (PR #11)](https://github.com/MiguelHerrera-13/Proyecto-frontend-Lumina/pull/11)
+**Contribuciones verificables:**
+[![PR 7](https://img.shields.io/badge/PR_%237-Login_y_pacientes-238636?style=flat-square&logo=github)](https://github.com/MiguelHerrera-13/Proyecto-frontend-Lumina/pull/7)
+[![PR 11](https://img.shields.io/badge/PR_%2311-Integración_API_REST-238636?style=flat-square&logo=github)](https://github.com/MiguelHerrera-13/Proyecto-frontend-Lumina/pull/11)
 
-### Mi camino hacia el desarrollo Full Stack
+---
 
-- **Frontend:** fortalecer mis bases en HTML, CSS y JavaScript y avanzar hacia interfaces web modernas.
-- **Backend:** profundizar en Java, Spring Boot, APIs REST y bases de datos.
-- **Proyectos completos:** conectar interfaces, servicios y persistencia de datos en aplicaciones propias.
+## 🌱 Mi camino hacia Full Stack
 
-*Las tecnologías que muestro arriba son las que estoy utilizando o aprendiendo actualmente; esta sección refleja mis próximos objetivos.*
+- **Frontend web:** fortalecer HTML, CSS y JavaScript; luego avanzar hacia React y TypeScript.
+- **Backend:** profundizar en Java, Spring Boot y diseño de APIs REST.
+- **Persistencia:** mejorar el diseño y uso de bases de datos relacionales.
+- **Portfolio:** desarrollar proyectos propios con frontend, backend y base de datos integrados.
 
 ---
 
 <div align="center">
-  <sub>Aprendiendo y construyendo, un proyecto a la vez.</sub>
+  <sub>Aprendiendo, construyendo y mejorando con cada proyecto.</sub>
 </div>
