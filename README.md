@@ -2,9 +2,9 @@
 
 # Ignacio Moreira
 
-**Estudiante de Desarrollo de Software**
+**Desarrollador Full Stack en formación**
 
-Java · Kotlin · APIs REST · Android
+Frontend · Backend · APIs REST
 
 📍 Mendoza, Argentina
 
@@ -16,7 +16,7 @@ Java · Kotlin · APIs REST · Android
 
 Estoy cursando la **Tecnicatura en Desarrollo de Software** y construyendo experiencia práctica a través de proyectos académicos y colaborativos.
 
-Me interesa especialmente el **desarrollo backend con Java**, la integración de servicios y el desarrollo de aplicaciones. Mi objetivo es seguir mejorando mis habilidades y comenzar mi carrera profesional en tecnología.
+Mi objetivo es desarrollarme como **Full Stack Developer**, aprendiendo a construir soluciones completas: desde las interfaces que utiliza el usuario hasta la lógica del servidor, las APIs y las bases de datos. Actualmente gano experiencia práctica con **Java, Kotlin, APIs REST y desarrollo de aplicaciones**.
 
 ### Tecnologías con las que estoy trabajando
 
@@ -55,11 +55,13 @@ Aplicación académica desarrollada con **Kotlin y Jetpack Compose**, que integr
 
 **Cambios integrados al proyecto:** [Login y pacientes (PR #7)](https://github.com/MiguelHerrera-13/Proyecto-frontend-Lumina/pull/7) · [Integración con API REST (PR #11)](https://github.com/MiguelHerrera-13/Proyecto-frontend-Lumina/pull/11)
 
-### En qué estoy enfocado
+### Mi camino hacia el desarrollo Full Stack
 
-- Profundizar mis conocimientos en **Java, Spring Boot y bases de datos**.
-- Seguir practicando **desarrollo de aplicaciones e integración de APIs REST**.
-- Desarrollar proyectos propios que reflejen mi progreso y aprendizaje.
+- **Frontend:** fortalecer mis bases en HTML, CSS y JavaScript y avanzar hacia interfaces web modernas.
+- **Backend:** profundizar en Java, Spring Boot, APIs REST y bases de datos.
+- **Proyectos completos:** conectar interfaces, servicios y persistencia de datos en aplicaciones propias.
+
+*Las tecnologías que muestro arriba son las que estoy utilizando o aprendiendo actualmente; esta sección refleja mis próximos objetivos.*
 
 ---
 
