@@ -4,7 +4,7 @@
 
 ### 💻 Full Stack Developer en formación
 
-**Estudiante de Desarrollo de Software | Mendoza, Argentina 🇦🇷**
+**Estudiante de Desarrollo de Software (último año) | Mendoza, Argentina 🇦🇷**
 
 Me interesa crear aplicaciones completas: desde la experiencia del usuario hasta las APIs y la persistencia de datos.
 
@@ -16,7 +16,7 @@ Me interesa crear aplicaciones completas: desde la experiencia del usuario hasta
 
 ## 🚀 Sobre mí
 
-- 🎓 Curso la **Tecnicatura en Desarrollo de Software**.
+- 🎓 Estoy cursando el **último año de la Tecnicatura en Desarrollo de Software**.
 - 🔧 Estoy desarrollando mis habilidades en **frontend, backend y bases de datos**.
 - 🤝 Participo en proyectos colaborativos, como **Lumina**, donde trabajé en interfaces Android e integración con APIs REST.
 - 🎯 Mi objetivo es comenzar mi carrera profesional como **desarrollador Full Stack** y seguir aprendiendo con proyectos reales.
@@ -52,6 +52,7 @@ Me interesa crear aplicaciones completas: desde la experiencia del usuario hasta
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
 
 > Estas son tecnologías con las que estoy trabajando o aprendiendo; sigo fortaleciendo mis fundamentos y experiencia práctica.
